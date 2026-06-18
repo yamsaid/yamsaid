@@ -2,7 +2,6 @@
 
 #### Statistics Graduate | Data Analyst | Business Intelligence Enthusiast | Python Developer
 
-
 <p align="center">
   <a href="https://LIEN_VERS_TON_CV.pdf">
     <img src="https://img.shields.io/badge/My%20CV-2d6a4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"/>
@@ -13,7 +12,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## About Me
 
@@ -26,7 +25,7 @@
 - 🗄️ Working with SQL databases, APIs, and data management solutions
 - 🌍 Open to collaboration on public health, monitoring & evaluation, and socioeconomic research projects
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## Technical skills
 
@@ -38,7 +37,7 @@
 | **Databases** | PostgreSQL, MySQL, Microsoft SQL Server |
 | **Dev & Tools** | Git, GitHub, PyQt, REST APIs |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## Featured projects
 
@@ -82,9 +81,6 @@ Assistant virtuel intelligent accompagnant agriculteurs, techniciens et étudian
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
 
 ## GitHub activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamsaid&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamsaid&layout=compact&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamsaid&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamsaid&layout=compact)
