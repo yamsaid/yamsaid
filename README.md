@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
 
 ## About Me
 
@@ -25,7 +25,7 @@
 - 🗄️ Working with SQL databases, APIs, and data management solutions
 - 🌍 Open to collaboration on public health, monitoring & evaluation, and socioeconomic research projects
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
 
 ## Technical skills
 
@@ -37,7 +37,7 @@
 | **Databases** | PostgreSQL, MySQL, Microsoft SQL Server |
 | **Dev & Tools** | Git, GitHub, PyQt, REST APIs |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
 
 ## Featured projects
 
@@ -50,7 +50,7 @@ Web app de surveillance en temps réel : seuils d'alerte configurables (positivi
 
 → [View repository](https://github.com/yamsaid/DenGueSurveillanceApi)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40%"/>
 
 ### 🚗 TrafficML — Hourly Traffic Volume Prediction
 > Africa TechUp Tour 2025 · Data Scientist track
@@ -67,7 +67,7 @@ Prédiction du volume de trafic horaire sur l'Interstate 94 (Minneapolis–Saint
 
 → [View repository](https://github.com/yamsaid/traffic-prediction)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40%"/>
 
 ### 🌱 AgriConseil-BF — AI Assistant for Burkinabè Farmers
 > Smart agricultural advisory · Burkina Faso 🇧🇫
@@ -78,7 +78,7 @@ Assistant virtuel intelligent accompagnant agriculteurs, techniciens et étudian
 
 → [View repository](https://github.com/yamsaid/AgroConsulling)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
 
 ## GitHub activity
 
@@ -86,7 +86,7 @@ Assistant virtuel intelligent accompagnant agriculteurs, techniciens et étudian
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamsaid&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=yamsaid)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
 
 ## 🌐 Connect With Me
 
