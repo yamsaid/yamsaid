@@ -6,6 +6,28 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamsaid&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamsaid&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=yamsaid)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Saidou%20Yameogo&fontSize=40)
+
+## Connect with me
+
+[LinkedIn](https://linkedin.com/in/votreprofil)
+
+[Facebook](https://facebook.com/votreprofil)
+
+[Email](mailto:votreemail@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=yamsaid)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamsaid)](...)
 
 # Hi, I'm Saidou Yameogo 👋
 
