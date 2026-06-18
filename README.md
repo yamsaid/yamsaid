@@ -23,9 +23,9 @@ I turn raw data into actionable insights — from survey data collection to inte
 | Domain | Tools |
 |---|---|
 | **Statistics & Modelling** | Descriptive/inferential stats, regression, time series (ARIMA, ARCH/GARCH), survival analysis |
-| **Programming** | Python (Pandas, NumPy, Scikit-learn, Statsmodels, FastAPI), R, SQL |
-| **Visualization & BI** | Power BI, Matplotlib, Plotly |
-| **Databases** | PostgreSQL, MySQL |
+| **Programming** | Python (Pandas, NumPy, Scikit-learn, Statsmodels, FastAPI, Django), R, SQL, VBA |
+| **Visualization & BI** | Power BI, Matplotlib, Plotly, Streamlit, R Shiny, GGplot, Tableau, Excel |
+| **Databases** | PostgreSQL, MySQL, Microsoft SQL Server |
 | **Dev & Tools** | Git, GitHub, PyQt, REST APIs |
 
 ---
@@ -60,4 +60,4 @@ Inventory management application (PyQt + PostgreSQL) with reporting module.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saidou%20Yameogo-blue?logo=linkedin)](https://linkedin.com/in/TONPROFIL)
-[![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:TON@EMAIL.com)
+[![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:saidouyameogo3@gmail.com)
