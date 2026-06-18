@@ -91,19 +91,19 @@ Assistant virtuel intelligent accompagnant agriculteurs, techniciens et étudian
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/TONPROFIL">
+  <a href="https://linkedin.com/in/saidou-yameogo-1684b6336">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TON@EMAIL.com">
+  <a href="mailto:saidouyameogo3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/22600000000">
+  <a href="https://wa.me/22672289956">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://t.me/TONPSEUDO">
+  <a href="https://t.me/saidouyameogo">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/TONPROFIL">
+  <a href="https://facebook.com/saidou.yameeogo.7712">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://m.me/TONPSEUDO">
