@@ -31,26 +31,43 @@
 
 ## Featured projects
 
-| Domain | Tools |
-|---|---|
-| **[Public Health Surveillance Platform](#)** | Descriptive/inferential stats, regression, time series (ARIMA, ARCH/GARCH), survival analysis |
-| **Programming** | Python (Pandas, NumPy, Scikit-learn, Statsmodels, FastAPI, Django), R, SQL, VBA |
+### 🦟 Dengue Surveillance System
+> Epidemiological monitoring & alert platform
 
-### 🏥 Public Health Surveillance Platform
-Centralized platform for monitoring dengue fever cases — ETL pipeline, indicator computation, Power BI dashboard.  
-→ [View repository](#)
+Web app de surveillance en temps réel : seuils d'alerte configurables (positivité, hospitalisation, mortalité), dashboard interactif, exploration des données historiques et gestion des logs d'alertes.
 
-### 🧠 Mental Health Risk Prediction
-Predictive model for anxiety and mental health risk assessment using survey data.  
-→ [View repository](#)
+`FastAPI` `SQLAlchemy` `Pandas` `Bootstrap` `Jinja2`
 
-### 📈 Time Series Modelling — Financial Data
-ARCH/GARCH models applied to economic and financial data; volatility forecasting.  
-→ [View repository](#)
+→ [View repository](https://github.com/yamsaid/DenGueSurveillanceApi)
 
-### 🏢 Stock Management System with Analytics
-Inventory management application (PyQt + PostgreSQL) with reporting module.  
-→ [View repository](#)
+---
+
+### 🚗 TrafficML — Hourly Traffic Volume Prediction
+> Africa TechUp Tour 2025 · Data Scientist track
+
+Prédiction du volume de trafic horaire sur l'Interstate 94 (Minneapolis–Saint Paul) à partir de variables temporelles et météorologiques. Comparaison Ridge / Random Forest / **XGBoost**. Interprétation des prédictions via SHAP.
+
+| Metric | Value |
+|--------|-------|
+| R² | **0.988** |
+| RMSE | 213 veh/h |
+| MAPE | 5.95% |
+
+`XGBoost` `Scikit-learn` `SHAP` `Pandas` `Matplotlib`
+
+→ [View repository](https://github.com/yamsaid/traffic-prediction)
+
+---
+
+### 🌱 AgriConseil-BF — AI Assistant for Burkinabè Farmers
+> Smart agricultural advisory · Burkina Faso 🇧🇫
+
+Assistant virtuel intelligent accompagnant agriculteurs, techniciens et étudiants sur la gestion des cultures, la protection phytosanitaire, l'adaptation climatique et la simulation complète de projets agricoles (intrants, rendement, rentabilité).
+
+`LLM` `Python` `AgriTech` `Food Security`
+
+→ [View repository](https://github.com/yamsaid/AgroConsulling)
+
 
 ---
 
