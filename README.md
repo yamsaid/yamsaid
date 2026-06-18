@@ -1,16 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Saidou%20Yameogo&fontSize=40)
 
-# Statistics Graduate | Data Analyst | Business Intelligence Enthusiast | Python Developer
-
-> "Data is valuable only when transformed into knowledge and action."
-
-I am a Statistics graduate specializing in Business Intelligence and Decision Support Systems. Passionate about data analytics, survey systems, and software development, I build data-driven solutions that transform raw data into actionable insights. My interests span statistical analysis, data collection systems, business intelligence, public health analytics, and the development of digital tools that support evidence-based decision-making
+### Statistics Graduate | Data Analyst | Business Intelligence Enthusiast | Python Developer
 
 ---
 
 ## About Me
 
-I transform raw data into actionable insights — from survey design and data collection to interactive dashboards, statistical analysis, and predictive models. My work focuses on public health, socioeconomic development, and evidence-based decision-making in West Africa.
+*I am a **Statistics graduate specializing in Business Intelligence and Decision Support Systems**. Passionate about data analytics, survey systems, and software development, I build data-driven solutions that transform raw data into actionable insights. My interests span statistical analysis, data collection systems, business intelligence, public health analytics, and the development of digital tools that support evidence-based decision-making*
 
 - 🎓 Bachelor's Degree in Statistical Analysis, specialized in Business Intelligence and Decision Support Systems
 - 📊 Skilled in applied statistics, survey methodology, epidemiological data analysis, and BI reporting
