@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Saidou%20Yameogo&fontSize=40)
 
-### Statistics Graduate | Data Analyst | Business Intelligence Enthusiast | Python Developer
+#### Statistics Graduate | Data Analyst | Business Intelligence Enthusiast | Python Developer
 
 ---
 
@@ -30,6 +30,11 @@
 ---
 
 ## Featured projects
+
+| Domain | Tools |
+|---|---|
+| **[Public Health Surveillance Platform](#)** | Descriptive/inferential stats, regression, time series (ARIMA, ARCH/GARCH), survival analysis |
+| **Programming** | Python (Pandas, NumPy, Scikit-learn, Statsmodels, FastAPI, Django), R, SQL, VBA |
 
 ### 🏥 Public Health Surveillance Platform
 Centralized platform for monitoring dengue fever cases — ETL pipeline, indicator computation, Power BI dashboard.  
