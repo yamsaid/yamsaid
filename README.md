@@ -2,6 +2,17 @@
 
 #### Statistics Graduate | Data Analyst | Business Intelligence Enthusiast | Python Developer
 
+
+<p align="center">
+  <a href="https://LIEN_VERS_TON_CV.pdf">
+    <img src="https://img.shields.io/badge/My%20CV-2d6a4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"/>
+  </a>
+  &nbsp;
+  <a href="https://LIEN_VERS_TON_PORTFOLIO">
+    <img src="https://img.shields.io/badge/My%20Portfolio-1b4332?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -31,7 +42,7 @@
 
 ## Featured projects
 
-### 🦟 Dengue Surveillance System
+### 🦟 Dengue Surveillance System 🇧🇫
 > Epidemiological monitoring & alert platform
 
 Web app de surveillance en temps réel : seuils d'alerte configurables (positivité, hospitalisation, mortalité), dashboard interactif, exploration des données historiques et gestion des logs d'alertes.
@@ -80,5 +91,25 @@ Assistant virtuel intelligent accompagnant agriculteurs, techniciens et étudian
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saidou%20Yameogo-blue?logo=linkedin)](https://linkedin.com/in/TONPROFIL)
-[![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:saidouyameogo3@gmail.com)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/TONPROFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TON@EMAIL.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/22600000000">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://t.me/TONPSEUDO">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/TONPROFIL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://m.me/TONPSEUDO">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+  </a>
+</p>
