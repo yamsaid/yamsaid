@@ -5,7 +5,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidouyameogo&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamsaid&show_icons=true)
 
 # Hi, I'm Saidou Yameogo 👋
 
