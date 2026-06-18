@@ -51,7 +51,7 @@ Web app de surveillance en temps réel : seuils d'alerte configurables (positivi
 
 → [View repository](https://github.com/yamsaid/DenGueSurveillanceApi)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
 
 ### 🚗 TrafficML — Hourly Traffic Volume Prediction
 > Africa TechUp Tour 2025 · Data Scientist track
@@ -68,7 +68,7 @@ Prédiction du volume de trafic horaire sur l'Interstate 94 (Minneapolis–Saint
 
 → [View repository](https://github.com/yamsaid/traffic-prediction)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
 
 ### 🌱 AgriConseil-BF — AI Assistant for Burkinabè Farmers
 > Smart agricultural advisory · Burkina Faso 🇧🇫
@@ -79,17 +79,18 @@ Assistant virtuel intelligent accompagnant agriculteurs, techniciens et étudian
 
 → [View repository](https://github.com/yamsaid/AgroConsulling)
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
 
 ## GitHub activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamsaid&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamsaid&layout=compact&hide_border=true)
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamsaid&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamsaid&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=yamsaid)
 
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3&section=header&reversal=false" width="100%"/>
 
 ## 🌐 Connect With Me
 
