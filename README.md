@@ -1,20 +1,23 @@
-# Saidou Yameogo — Statistician & Data Analyst
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Saidou%20Yameogo&fontSize=40)
+
+# Statistics Graduate | Data Analyst | Business Intelligence Enthusiast | Python Developer
 
 > "Data is valuable only when transformed into knowledge and action."
 
-Master's student in Statistical Analysis | Burkina Faso 🇧🇫  
-Passionate about public health analytics, business intelligence, and data-driven decision-making.
+I am a Statistics graduate specializing in Business Intelligence and Decision Support Systems. Passionate about data analytics, survey systems, and software development, I build data-driven solutions that transform raw data into actionable insights. My interests span statistical analysis, data collection systems, business intelligence, public health analytics, and the development of digital tools that support evidence-based decision-making
 
 ---
 
-## About me
+## About Me
 
-I turn raw data into actionable insights — from survey data collection to interactive dashboards and predictive models. My work focuses on health and development contexts in West Africa.
+I transform raw data into actionable insights — from survey design and data collection to interactive dashboards, statistical analysis, and predictive models. My work focuses on public health, socioeconomic development, and evidence-based decision-making in West Africa.
 
-- 🎓 Master's in Statistical Analysis (2026)
-- 📊 Specialized in applied statistics, epidemiological data, and BI reporting
-- 🐍 Python & R practitioner — data pipelines, modelling, automation
-- 🌍 Open to collaboration on public health and socioeconomic research projects
+- 🎓 Bachelor's Degree in Statistical Analysis, specialized in Business Intelligence and Decision Support Systems
+- 📊 Skilled in applied statistics, survey methodology, epidemiological data analysis, and BI reporting
+- 📋 Experienced with KoboToolbox, SurveyCTO, CSPro, ODK, and digital data collection systems
+- 🐍 Python & R practitioner — data pipelines, statistical modelling, automation, and dashboard development
+- 🗄️ Working with SQL databases, APIs, and data management solutions
+- 🌍 Open to collaboration on public health, monitoring & evaluation, and socioeconomic research projects
 
 ---
 
